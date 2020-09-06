@@ -1,0 +1,12 @@
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\bin\Debug\AhpilyServer.dll
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\bin\Debug\AhpilyServer.pdb
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\obj\Debug\AhpilyServer.dll
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\obj\Debug\AhpilyServer.pdb
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csprojResolveAssemblyReference.cache
+C:\Users\Ahpily\Desktop\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csproj.CoreCompileInputs.cache
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\bin\Debug\AhpilyServer.dll
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\bin\Debug\AhpilyServer.pdb
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csprojAssemblyReference.cache
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\obj\Debug\AhpilyServer.dll
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\obj\Debug\AhpilyServer.pdb
+F:\AAAA\GameServer（9-30）\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csproj.CoreCompileInputs.cache
